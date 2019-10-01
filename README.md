@@ -9,6 +9,7 @@ It supports a wide variety of languages.
 Tesseract Engine can be installed on Linux Distributions By:
 
 sudo apt install tesseract-ocr
+
 sudo apt install libtesseract-dev
 
 Tesseract Engine can be installed on Windows by downloading it from here :
