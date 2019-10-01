@@ -11,9 +11,11 @@ sudo apt install tesseract-ocr
 sudo apt install libtesseract-dev
 
 Tesseract Engine can be installed on Windows by downloading it from here :
+
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.02-20180621.exe
 
-If you're  a windows user make sure you create a variable path.
+If you're  a windows user make sure you create a variable path:
+
 TESSDATA_PREFIX=C:\Program Files (x86)\Tesseract-OCR
 
 
