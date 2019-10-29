@@ -1,7 +1,11 @@
 import os
 import tempfile
 import subprocess
-import pytesseract
+
+import pytesseract 
+#Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.
+#more info at https://pypi.org/project/pytesseract/
+
 
 #pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
 
